@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.383.0",
-    "convict": "^4.4.1",
+    "convict": "^6.2.4",
     "fast-csv": "^2.4.1",
     "mp3-duration": "^1.1.0",
     "mysql": "^2.16.0",
